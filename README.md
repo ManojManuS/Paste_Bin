@@ -46,22 +46,29 @@ Spam protection for view counts
 
 # Output
 <img width="1366" height="729" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/e7984fab-1c63-4e29-866c-da4043544491" />
-# Image1:Here the option if person is Admin or user.
+Image1:Here the option if person is Admin or user.
+
 <img width="1366" height="729" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/18501b88-4c98-49c4-acbc-a0d509060bb2" />
-# Image2:If a person admin, having a userid and password(Mentioned in above).
-# Here it displayed invalid password and userid which have enter by admin
+Image2:If a person admin, having a userid and password(Mentioned in above).
+Here it displayed invalid password and userid which have enter by admin
+
 <img width="1366" height="727" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/777cfc8b-3a0d-40fd-a733-5231f0271880" />
-# Image3:Here admin entering without giving a userid and password it showing alert message to enter userid and password.
+Image3: Here admin entering without giving a userid and password it showing alert message to enter userid and password.
+
 <img width="1366" height="725" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/1a853d10-56e2-490e-bc81-47a37fb96490" />
-# Image4:After successfuly entering userid and password admin entered to admin panel.
+Image4:After successfuly entering userid and password admin entered to admin panel.
+
 <img width="1366" height="725" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/b06140c3-8e94-448f-919f-1844744be61f" />
-# Image5:Admin created a link by pasting or written something in blanck space and then converted into link using "Click to convert link"button.
+Image5:Admin created a link by pasting or written something in blanck space and then converted into link using "Click to convert link"button.
+
 <img width="1366" height="723" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/38c0ee3b-0ae9-4566-9496-ed8ad1756a5c" />
-# Image6:It's a User side panel to view content by pasting link on the given space by clicking on open button its display the content which is pasted by Admin.
+Image6:It's a User side panel to view content by pasting link on the given space by clicking on open button its display the content which is pasted by Admin.
+
 <img width="1366" height="723" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/28191328-ece4-4f11-b783-fdd8de5df984" />
-# Image7:In this admin is deleting existing link by clicking Delete button with display confirmantion alert message.
+Image7:In this admin is deleting existing link by clicking Delete button with display confirmantion alert message.
+
 <img width="1366" height="723" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/6e1e13b9-2e7a-4993-8389-1418389998ea" />
-# Image8:Here user try to view deleted link it showing invalid link or deleted link you have pasted to user.
+Image8:Here user try to view deleted link it showing invalid link or deleted link you have pasted to user.
 
 
  
